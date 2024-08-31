@@ -1,0 +1,7 @@
+nombre_completo = input ("INGRESE NOMBRE COMPLETO")
+nombre_minusculas = nombre_completo.lower()
+nombre_mayusculas = nombre_completo.upper()
+nombre_titulo = nombre_completo.title()
+print("Nombre en minusculas: ", nombre_minusculas)
+print("Nombre en mayusculas: ", nombre_mayusculas)
+print("Nombre titulo: ", nombre_titulo)
